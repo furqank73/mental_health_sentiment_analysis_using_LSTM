@@ -48,7 +48,7 @@ print("Predicted Sentiment:", prediction)
 Output:
 
 ```
-Predicted Sentiment: Anxiety
+Predicted Sentiment: Normal
 ```
 
 ---
